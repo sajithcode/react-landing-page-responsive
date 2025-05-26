@@ -24,7 +24,7 @@ export const CTA = () => {
             </Paragraph>{" "}
             <div className="mx-auto max-w-md sm:max-w-xl pt-10 dark:text-white">
               <a
-                href="https://wa.me/94705316266?text=Hi!%20I'm%20interested%20in%20your%20UI/UX%20design%20and%20development%20services.%20Can%20we%20discuss%20my%20project?"
+                href="https://wa.me/94726463551?text=Hi!%20I'm%20interested%20in%20your%20UI/UX%20design%20and%20development%20services.%20Can%20we%20discuss%20my%20project?"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2"

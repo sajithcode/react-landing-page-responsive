@@ -13,7 +13,7 @@ export const projects = [
     title: "Mobile App UI Design",
     category: "Figma",
     description: "Complete mobile app UI/UX design system created in Figma with interactive prototypes and design tokens.",
-    image: "/assets/mobile-app.png",
+    image: "/assets/mobile-app.webp",
     technologies: ["Figma", "Prototyping", "Design System", "UI/UX"],
     link: "#"
   },

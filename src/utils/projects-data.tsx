@@ -4,7 +4,7 @@ export const projects = [
     title: "E-commerce WordPress Site",
     category: "WordPress",
     description: "Modern responsive e-commerce website built with WordPress and WooCommerce featuring custom theme and payment integration.",
-    image: "/assets/e-commerce.png",
+    image: "/assets/e-commerce.webp",
     technologies: ["WordPress", "WooCommerce", "PHP", "MySQL"],
     link: "#"
   },

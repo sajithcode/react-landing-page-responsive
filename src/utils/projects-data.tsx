@@ -4,7 +4,7 @@ export const projects = [
     title: "E-commerce WordPress Site",
     category: "WordPress",
     description: "Modern responsive e-commerce website built with WordPress and WooCommerce featuring custom theme and payment integration.",
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=800&q=80",
+    image: "/assets/e-commerce.png",
     technologies: ["WordPress", "WooCommerce", "PHP", "MySQL"],
     link: "#"
   },
@@ -13,7 +13,7 @@ export const projects = [
     title: "Mobile App UI Design",
     category: "Figma",
     description: "Complete mobile app UI/UX design system created in Figma with interactive prototypes and design tokens.",
-    image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=80",
+    image: "/assets/mobile-app.png",
     technologies: ["Figma", "Prototyping", "Design System", "UI/UX"],
     link: "#"
   },
